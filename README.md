@@ -6,10 +6,10 @@ These packages and tools are categoried into four groups, representing four typi
 
 Category|Features
 ----------------------|-----------------------------------------------------------------------------------------------------
-Cloud resource operation and administration|Simplify the way to interact with Azure cloud platform and operate resouces on Azure for various tasks.
-Scalable and advanced analytics|Enable large-scale and parallel data analytics in R environment.
-Remote interaction and access to Cloud instance|Enhance work efficiency on cloud for R based analytics.
-Application and service deployment|Make operationalizing solution and deploying it as service easy.
+[Cloud resource operation and administration](https://github.com/yueguoguo/r-on-azure#cloud-resource-operation-and-administration)|Simplify the way to interact with Azure cloud platform and operate resouces on Azure for various tasks.
+[Scalable and advanced analytics](https://github.com/yueguoguo/r-on-azure#scalable-and-advanced-analytics)|Enable large-scale and parallel data analytics in R environment.
+[Remote interaction and access to Cloud instance](https://github.com/yueguoguo/r-on-azure#interaction-and-remote-access)|Enhance work efficiency on cloud for R based analytics.
+[Application and service deployment](https://github.com/yueguoguo/r-on-azure#application-and-service-deployment)|Make operationalizing solution and deploying it as service easy.
 
 ## Cloud resource operation and administration
 R packages and tools in this category are featured by offering a simplified way to interact with Azure cloud platform and operate resouces (e.g., blob storage, Data Science Virtual Machine, Azure Batch Service, etc.) on Azure for various tasks. 
