@@ -1,4 +1,4 @@
-# R-on-azure
+# R on Azure
 
 Development of data science and AI becomes easier than ever before thanks to cloud computing. The Github repo site collects a set of R packages, tools, and tutorials for doing R data science on Azure cloud. 
 
