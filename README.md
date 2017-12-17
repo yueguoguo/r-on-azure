@@ -1,6 +1,6 @@
 # R on Azure
 
-Development of data science and AI becomes easier than ever before thanks to cloud computing. The Github repo site collects a set of R packages, tools, and tutorials for doing R data science on Azure cloud. 
+Development of data science and AI becomes easier than ever before thanks to cloud computing. The Github repo site collects a set of R packages, tools, and case-studies for doing R data science on Azure cloud. 
 
 These packages and tools are categoried into four groups, representing four typical tasks data scientists or AI developers may frequently work on. 
 
@@ -8,13 +8,13 @@ Category|Features
 ----------------------|-----------------------------------------------------------------------------------------------------
 [Cloud resource operation and administration](https://github.com/yueguoguo/r-on-azure#cloud-resource-operation-and-administration)|Simplify the way to interact with Azure cloud platform and operate resouces on Azure for various tasks.
 [Scalable and advanced analytics](https://github.com/yueguoguo/r-on-azure#scalable-and-advanced-analytics)|Enable large-scale and parallel data analytics in R environment.
-[Remote interaction and access to Cloud instance](https://github.com/yueguoguo/r-on-azure#interaction-and-remote-access)|Enhance work efficiency on cloud for R based analytics.
-[Application and service deployment](https://github.com/yueguoguo/r-on-azure#application-and-service-deployment)|Make operationalizing solution and deploying it as service easy.
+[Remote interaction and access to Cloud instance](https://github.com/yueguoguo/r-on-azure#interaction-and-remote-access)|Enhance work efficiency on cloud for R based analytics. 
+ [Application and service deployment](https://github.com/yueguoguo/r-on-azure#application-and-service-deployment)|Make operationalizing solution and deploying it as service easy.
 
 ## Cloud resource operation and administration
 R packages and tools in this category are featured by offering a simplified way to interact with Azure cloud platform and operate resouces (e.g., blob storage, Data Science Virtual Machine, Azure Batch Service, etc.) on Azure for various tasks. 
 
-* [AzureSMR](https://github.com/Microsoft/AzureSMR) - R package for managing a selection of Azure resources. Targeted at Data Scientists who need to control Azure Resources without needing to both Administrators. APIs include Storage Blobs, HDInsight(Nodes, Hive, Spark), ARM, VMs.
+* [AzureSMR](https://github.com/Microsoft/AzureSMR)<sup>[P]</sup><sup>[T]</sup> - R package for managing a selection of Azure resources. Targeted at Data Scientists who need to control Azure Resources without needing to both Administrators. APIs include Storage Blobs, HDInsight(Nodes, Hive, Spark), ARM, VMs.
 * [AzureDSVM](https://github.com/Azure/AzureDSVM) - R package that offers convenient harness of Azure DSVM, remote execution of scalable and elastic data science work, and monitoring of on-demand resource consumption.
 * [doAzureParallel](https://github.com/Azure/doAzureParallel) - R package that allows users to submit parallel workloads in Azure.
 * [rAzureBatch](https://github.com/Azure/rAzureBatch) - a HTTP proxy library written in R for Azure.
@@ -44,5 +44,12 @@ R packages and tools in this category allow one to performan large-scale R-based
 * [h2o](https://github.com/h2oai/h2o-3) - R interface to H2O.
 
 ## Interaction and remote access
+The R packages and tools in this category help data scientists or developers to easily remote access or interact with Azure cloud instances or services for convenient development.
+
+* [mrsdeploy](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/mrsdeploy/mrsdeploy-package) - an R package that provides functions for establishing a remote session in a console application and for publishing and managing a web service that is backed by the R code block or script you provided.
+* [R Tools for Visual Studio](https://www.visualstudio.com/vs/rtvs/) - IDE with R support.
+* [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - IDE for remote R session with access via Internet browser.
+* [JupterHub](https://jupyterhub.readthedocs.io/en/latest/) - Jupyter notebook with multi-user access.
+* [IRKernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter notebook. 
 
 ## Application and service deployment 
