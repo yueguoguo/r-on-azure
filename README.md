@@ -4,6 +4,13 @@ Development of data science and AI becomes easier than ever before thanks to clo
 
 These packages and tools are categoried into four groups, representing four typical tasks data scientists or AI developers may frequently work on. 
 
+Category|Features
+----------------------|-----------------------------------------------------------------------------------------------------
+Cloud resource operation and administration|Simplify the way to interact with Azure cloud platform and operate resouces on Azure for various tasks.
+Scalable and advanced analytics|Enable large-scale and parallel data analytics in R environment.
+Remote interaction and access to Cloud instance|Enhance work efficiency on cloud for R based analytics.
+Application and service deployment|Make operationalizing solution and deploying it as service easy.
+
 ## Cloud resource operation and administration
 R packages and tools in this category are featured by offering a simplified way to interact with Azure cloud platform and operate resouces on Azure for various tasks. 
 
@@ -14,6 +21,8 @@ R packages and tools in this category are featured by offering a simplified way 
 * [AzureML](https://github.com/RevolutionAnalytics/AzureML) - An R interface to [AzureML](https://studio.azureml.net/) experiments, datasets, and web services.
 
 ## Scalable and advanced analytics
+
+R packages 
 
 ## Interaction and remote access
 
