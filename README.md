@@ -17,7 +17,7 @@ Category|Features
 
 R packages and tools in this category are featured by offering a simplified way to interact with Azure cloud platform and operate resouces (e.g., blob storage, Data Science Virtual Machine, Azure Batch Service, etc.) on Azure for various tasks. 
 
-* [AzureSMR](https://github.com/Microsoft/AzureSMR)<sup>[P]</sup><sup>[T]</sup> - R package for managing a selection of Azure resources. Targeted at Data Scientists who need to control Azure Resources without needing to both Administrators. APIs include Storage Blobs, HDInsight(Nodes, Hive, Spark), ARM, VMs.
+* [AzureSMR](https://github.com/Microsoft/AzureSMR) - R package for managing a selection of Azure resources. Targeted at Data Scientists who need to control Azure Resources without needing to both Administrators. APIs include Storage Blobs, HDInsight(Nodes, Hive, Spark), ARM, VMs.
 * [AzureDSVM](https://github.com/Azure/AzureDSVM) - R package that offers convenient harness of Azure DSVM, remote execution of scalable and elastic data science work, and monitoring of on-demand resource consumption.
 * [doAzureParallel](https://github.com/Azure/doAzureParallel) - R package that allows users to submit parallel workloads in Azure.
 * [rAzureBatch](https://github.com/Azure/rAzureBatch) - a HTTP proxy library written in R for Azure.
