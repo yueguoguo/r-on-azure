@@ -53,3 +53,10 @@ The R packages and tools in this category help data scientists or developers to 
 * [IRKernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter notebook. 
 
 ## Application and service deployment 
+The R packages and tools in this category are used for deploying an R-based analytics or applicaiton as services or interfaces that can be conveniently consumed by end-users or developers. 
+
+* [mrsdeploy](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/mrsdeploy/mrsdeploy-package) - an R package that provides functions for deploying easily-consumable service within R session. 
+* [AzureML](https://cran.r-project.org/web/packages/AzureML/index.html) - an R package to allow one to interact with [Azure Machine Learning Studio](https://studio.azureml.net/) for publishing R functions as API services. 
+* [Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/) - Azure service to allow running a containerized R analytics on cloud.
+* [Azure Container Services](https://azure.microsoft.com/en-us/services/container-service/) - Azure service that simplifies deployment, management, and operation of orchestrated containers of R analytics. 
+* [Shiny server](https://www.rstudio.com/products/shiny/shiny-server/) - Develop and publish Shiny based web applications online.
