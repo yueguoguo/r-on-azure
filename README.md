@@ -66,6 +66,7 @@ The R packages and tools in this category are used for deploying an R-based anal
 
 ## Real-world use cases
 
+The real-world use cases below show case Azure cloud-based analytical solutions that involve the aforementioned R packages or tools. 
 
 Use case|Key R packages or tools
 ----------------------|-----------------------------------------------------------------------------------------------------
@@ -78,7 +79,7 @@ Use case|Key R packages or tools
 [Predictive maintenance](https://github.com/Microsoft/SQL-Server-R-Services-Samples/tree/master/PredictiveMaintanenceModelingGuide)|RevoScaleR, RTVS/RStudio
 [Retail forecasting](https://github.com/Microsoft/SQL-Server-R-Services-Samples/tree/master/RetailForecasting)|RevoScaleR, RTVS/RStudio
 [Credit risk scoring](https://github.com/Microsoft/acceleratoRs/tree/master/CreditRiskPrediction)|MicrosoftML, mrsdeploy, Shiny, RTVS/RStudio
-[Drop-out prediction](https://github.com/Microsoft/acceleratoRs/tree/master/EducationAnalytics)|Jupyter Notebook
+[Drop-out prediction](https://github.com/Microsoft/acceleratoRs/tree/master/EducationAnalytics)|MicrosoftML, Jupyter Notebook
 [Product demand forecasting](https://github.com/Microsoft/acceleratoRs/tree/master/ProductDemandForecast)|RevoScaleR, RTVS/RStudio
 [Solar panel forecasting](https://github.com/Microsoft/acceleratoRs/tree/master/SolarPanelForecasting)|AzureSMR, AzureDSVM, keras, RTVS/RStudio
 [Employee attrition prediction](https://github.com/Microsoft/acceleratoRs/tree/master/EmployeeAttritionPrediction)|AzureSMR, AzureDSVM, Azure Container Services, Shiny, RTVS/RStudio
