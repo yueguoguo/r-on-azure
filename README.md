@@ -26,6 +26,7 @@ R packages and tools in this category are featured by offering a simplified way 
 * [AzureRMR](https://github.com/cloudyr/AzureRMR) - Base functionality for Azure Resource Management: authenticate, get subscriptions, get resource groups.
 * [AzureStor](https://github.com/cloudyr/AzureStor) - R package for Azure Storage management.
 * [AzureContainers](https://github.com/cloudyr/AzureContainers) - R supports for container related services on Azure, that is, [Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/), [Azure Kubernetes Services](https://azure.microsoft.com/en-us/services/kubernetes-service/), and [Azure Container Registry](https://azure.microsoft.com/en-us/services/container-registry/).
+* [AzureGraph](https://github.com/cloudyr/AzureGraph) - a simple interface to the [Microsoft Graph API](https://developer.microsoft.com/en-us/graph).
 
 ### Scalable and advanced analytics
 R packages and tools in this category allow one to performan large-scale R-based analytics on cloud with the bleeding-edge frameworks such as Spark, Hadoop, Microsoft Cognitive Toolkit, Tensorflow, Keras, etc. 
