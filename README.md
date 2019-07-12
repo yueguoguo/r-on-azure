@@ -22,11 +22,15 @@ R packages and tools in this category are featured by offering a simplified way 
 * [doAzureParallel](https://github.com/Azure/doAzureParallel) - R package that allows users to submit parallel workloads in Azure.
 * [rAzureBatch](https://github.com/Azure/rAzureBatch) - a HTTP proxy library written in R for Azure.
 * [AzureML](https://github.com/RevolutionAnalytics/AzureML) - an R interface to [AzureML](https://studio.azureml.net/) experiments, datasets, and web services.
-* [AzureAuth](https://github.com/cloudyr/AzureAuth) - OAuth 2.0 authentication with [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis).
-* [AzureRMR](https://github.com/cloudyr/AzureRMR) - Base functionality for Azure Resource Management: authenticate, get subscriptions, get resource groups.
-* [AzureStor](https://github.com/cloudyr/AzureStor) - R package for Azure Storage management.
-* [AzureContainers](https://github.com/cloudyr/AzureContainers) - R supports for container related services on Azure, that is, [Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/), [Azure Kubernetes Services](https://azure.microsoft.com/en-us/services/kubernetes-service/), and [Azure Container Registry](https://azure.microsoft.com/en-us/services/container-registry/).
-* [AzureGraph](https://github.com/cloudyr/AzureGraph) - a simple interface to the [Microsoft Graph API](https://developer.microsoft.com/en-us/graph).
+* [AzureR](https://github.com/Azure/AzureR) - Family of packages for interacting with Azure from R
+  * [AzureRMR](https://github.com/cloudyr/AzureRMR) - Base functionality for Azure Resource Management: authenticate, get subscriptions, get resource groups.
+  * [AzureAuth](https://github.com/Azure/AzureAuth) - R package for OAuth 2.0 authentication with Azure Active Directory
+  * [AzureKeyVault](https://github.com/Azure/AzureKeyVault) - R interface to Azure Key Vault
+  * [AzureKusto](https://github.com/Azure/AzureKusto) - R interface to Azure Data Explorer, aka Kusto
+  * [AzureStor](https://github.com/cloudyr/AzureStor) - R package for Azure Storage management.
+  * [AzureContainers](https://github.com/cloudyr/AzureContainers) - R supports for container related services on Azure, that is, [Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/), [Azure Kubernetes Services](https://azure.microsoft.com/en-us/services/kubernetes-service/), and [Azure Container Registry](https://azure.microsoft.com/en-us/services/container-registry/).
+  * [AzureGraph](https://github.com/cloudyr/AzureGraph) - a simple interface to the [Microsoft Graph API](https://developer.microsoft.com/en-us/graph).
+  * [AzureVM](https://github.com/Azure/AzureVM) - R package for managing virtual machines in Azure
 
 ### Scalable and advanced analytics
 R packages and tools in this category allow one to performan large-scale R-based analytics on cloud with the bleeding-edge frameworks such as Spark, Hadoop, Microsoft Cognitive Toolkit, Tensorflow, Keras, etc. 
