@@ -1,4 +1,7 @@
-# R on Azure
+R on Azure
+---
+
+**NOTE** I noticed that though this is site has not been activey maintained by myself for a while there are still people starred/forked the repository. Gladly the repository content provides help to these people. I will keep an eye on the repository - for all the readers and/or users of the repository, please feel free to make any contributions to update the listed resources and references whenever you feel necessary. Thanks!
 
 Development of data science and AI becomes easier than ever before thanks to cloud computing. The Github repo site collects a set of R packages, tools, and case-studies for doing R data science on Azure cloud. 
 
